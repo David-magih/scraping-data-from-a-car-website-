@@ -7,3 +7,6 @@ this is my current project that is not done. my goal is to learn with a few hour
 today I added the Deal model and I use __str__ to change the name of objects from 'Object' to a name like ' 2005 mini countryman 55k mi $12000'
 ![Screenshot from 2021-07-13 14-45-25](https://user-images.githubusercontent.com/58405807/125515905-12f21535-2ddf-495e-917a-776e9b07b6d5.png)
 
+ it got very simple RESTful APIs today, and we can send data to it for submitting a car. 
+
+![Screenshot from 2021-07-15 16-30-30](https://user-images.githubusercontent.com/58405807/125860392-76751772-960f-4612-972a-b39534973ea9.png)
